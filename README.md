@@ -1,1 +1,1 @@
-## FIAP Pós Tech - Arquitetura e Desenvolvimento em JAVA - Tech Challenge 4
+## FIAP Pós Tech - JAVA - Tech Challenge 4
