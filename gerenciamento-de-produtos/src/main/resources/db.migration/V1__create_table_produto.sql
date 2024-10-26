@@ -1,7 +1,7 @@
 create table produto(
-    idProduto int primary key, 
-    nomeProduto varchar(100) not null,
-     descricaoProduto   varchar(600) not null,
-     qtdEstoque int not null,
-     precoProduto decimal(18,2) not null  
+    id_produto int primary key, 
+    nome_produto varchar(100) not null,
+    descricao_produto   varchar(600) not null,
+    qtd_estoque int not null,
+    preco_produto decimal(18,2) not null  
 );
